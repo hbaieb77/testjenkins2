@@ -1,5 +1,4 @@
 import csv
-import getpass
 import oracledb
 
 pw = 'hr'
